@@ -11,6 +11,9 @@ There are thousands of fantastic movies every year. And many factors will influe
 ### Main Task
 This is a Wide project. In this project, we try to make use of multiple Big Data Technologies to observe detailed data generated from over 350,000 movies among 90,000 directors and analyse the relationship between the popularity of movies and many significant factors. Furthermore, we will make predictions of a movie’s score based on the analysis results.
 
+### Dataset
+https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
+
 ### Technologies
 Distributed file system
 
